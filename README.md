@@ -47,8 +47,8 @@ my-gin-project/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/RuberDucky/GoProject.git
-cd GoProject
+git clone https://github.com/RuberDucky/GoRestAPI.git
+cd GoRestAPI
 ```
 
 2. Install dependencies
